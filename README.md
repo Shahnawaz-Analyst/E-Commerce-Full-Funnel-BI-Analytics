@@ -11,9 +11,8 @@ An end-to-end business intelligence case study connecting top-of-funnel web traf
 ---
 
 ## 📥 Project Deliverables & Quick Access
-* **Interactive Power BI File**: [Download `ECommerce_BI_Analytics.pbix`](powerbi/ECommerce_BI_Analytics.pbix?raw=true)
-* **SQL DDL & Mart Views**: [`sql/01_schema_and_etl.sql`](sql/01_schema_and_etl.sql) | [`sql/02_analytical_views.sql`](sql/02_analytical_views.sql)
-* **Live Report Access Note**: As this project was developed without a Power BI Pro organizational tenant, executive views are documented below via high-resolution captures. You can interact with the dynamic model locally by opening the `.pbix` file in the free [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+* **Interactive Power BI File**: [Download `End-to-End E-Commerce Business Intelligence.pbix`](End-to-End%20E-Commerce%20Business%20Intelligence.pbix?raw=true)
+* **SQL DDL & Mart Views**: [`DATABASE ARCHITECTURE-ECom.sql`](DATABASE%20ARCHITECTURE-ECom.sql)
 
 ---
 
