@@ -11,7 +11,7 @@ An end-to-end business intelligence case study connecting top-of-funnel web traf
 ---
 
 ## 📥 Project Deliverables & Quick Access
-* **Interactive Power BI File**: [📥 Download Report (.pbix)](End-to-End%20E-Commerce%20Business%20Intelligence.pbix?raw=true)
+* **Interactive Power BI File**: [📥 Download Power BI File (.pbix)](https://github.com/Shahnawaz-Analyst/E-Commerce-Full-Funnel-BI-Analytics/raw/main/End-to-End%20E-Commerce%20Business%20Intelligence.pbix)
 * **SQL DDL & Mart Views**: [`DATABASE ARCHITECTURE-ECom.sql`](DATABASE%20ARCHITECTURE-ECom.sql)
 
 ---
